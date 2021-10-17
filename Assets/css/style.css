@@ -24,7 +24,7 @@
     overflow: hidden;
     height: 100%;
     bottom: -1px;
-    background-image: linear-gradient(to top, #86377b 20%, #27273c 80%);
+    background-image: linear-gradient(to top, #2B86C5 20%, #4BA08C 80%);
 }
 .bgTop {
     z-index: 15;
@@ -76,8 +76,8 @@
 }
 
 .middleimg img{
-    width: 90%;
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
+    width: 80%;    
+    display: block;
+    right: 0%;
+    left: 0%;
 }
